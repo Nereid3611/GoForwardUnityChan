@@ -474,7 +474,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BlockPurehub: {fileID: 7879674133662885803, guid: 009f8f6bac5355940b2c1672aa67d71f,
     type: 3}
-  Hit: 0
 --- !u!1 &1102858206 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 1355a58c3bd9c40679bea54b926e0179,
@@ -729,7 +728,7 @@ GameObject:
   - component: {fileID: 1434525366}
   m_Layer: 0
   m_Name: ground
-  m_TagString: Block
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

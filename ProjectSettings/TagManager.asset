@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Unitychan
   - Block
+  - Ground
   layers:
   - Default
   - TransparentFX

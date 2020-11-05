@@ -33,6 +33,10 @@ public class BlockScript : MonoBehaviour
         {
             audio.Play();
         }
+        if(collision.gameObject.tag == "Ground")
+        {
+            audio.Play();
+        }
         this.Hit = true;
     }
 }
